@@ -6,3 +6,7 @@ ul {
 li {
     list-style: none;
 }
+
+.flex-footer {
+    display: flex;
+}
