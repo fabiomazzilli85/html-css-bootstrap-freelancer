@@ -19,3 +19,20 @@ li {
 .flex-footer {
     display: flex;
 }
+
+.icons {
+    width: 130px;
+}
+
+.app_text_center {
+    text-align: center;
+    color: white;
+}
+
+.hero {
+    background-color: #1ABC9C;
+}
+
+.text-up {
+    text-transform: uppercase;
+}
