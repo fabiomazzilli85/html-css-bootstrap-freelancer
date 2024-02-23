@@ -84,5 +84,11 @@ li {
 }
 
 .mt-button {
-    margin-top: 20px;
+    margin: 20px 0;
+}
+
+.page-footer {
+    background-color: #3A546D;
+    color: white;
+    padding: 20px 0;
 }
