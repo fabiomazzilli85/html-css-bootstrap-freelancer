@@ -29,9 +29,14 @@ li {
     color: white;
 }
 
-.hero {
+.hero, .about {
     background-color: #1ABC9C;
 }
+
+.about {
+    padding: 40px 0;
+}
+
 
 .text-up {
     text-transform: uppercase;
@@ -39,4 +44,21 @@ li {
 
 .icons {
     width: 300px;
+}
+
+.text-column {
+    column-count: 2;
+    text-align: left;
+}
+
+
+@media (max-width: 767px) {
+    .text-column {
+      column-count:1;
+      text-align: left;
+    }
+  }
+
+.text-mb {
+    margin-bottom: 35px;
 }
