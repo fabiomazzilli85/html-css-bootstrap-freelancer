@@ -1,6 +1,14 @@
+.page-header {
+    background-color: #2C3E50;
+    color: white;
+}
+
+
 ul {
     display: flex;
     gap: 7px;
+    margin: 0;
+    padding: 0;
 }
 
 li {
