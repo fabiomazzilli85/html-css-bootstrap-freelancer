@@ -20,7 +20,7 @@ li {
     display: flex;
 }
 
-.icons {
+.avatar {
     width: 130px;
 }
 
@@ -35,4 +35,8 @@ li {
 
 .text-up {
     text-transform: uppercase;
+}
+
+.icons {
+    width: 250px;
 }
